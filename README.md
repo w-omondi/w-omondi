@@ -16,6 +16,6 @@ As a seasoned **Full-Stack Web Developer**, I specialize in building scalable, p
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,express,go,mongodb,postgresql,azure,docker,nginx" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,graphql,express,go,mongodb,postgresql,azure,docker,nginx" />
   </a>
 </p>
